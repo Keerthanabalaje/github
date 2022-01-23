@@ -29,8 +29,13 @@
  - Riverting
    - git revert <commitid> => it's just like undo process
    - git log => to get the commit id
-   
-
-
-    
-
+ - gitignore
+   - create .gitignore.txt to hide files
+   - In the case when we have to add any file in the repository which is not gitignore we can add that to gitignore by the following steps.
+   - git rm --cached testing.txt => to remove caches from the file so that it can be added to the gitignore
+   - then add it in the gitignore etxt file
+ *** 
+ ## Connect project with GITHUB
+   - git remote add origin <url of git repository>.git
+   - git push -u origin master => master is the master branch things need to upload
+ 
