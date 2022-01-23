@@ -3,7 +3,7 @@
  - [Udemy course link https://www.udemy.com/course/learngit/learn/lecture/6853274#overview]
  - Download link : https://git-scm.com/download/
  - Next to update
-    - Enter 'got clone hhtps://github.com/git/git' in the terminal.
+    - Enter 'git clone hhtps://github.com/git/git' in the terminal.
 ****
 ## Commands 
  - Create repository
